@@ -2,6 +2,7 @@
  
 Foram escritos testes para uma aplicação React que já está criada e configurada utilizando  [`Jest`](https://jestjs.io/) e a biblioteca [`React Testing Library`](https://testing-library.com/). Para garantir a qualidade do código, utilizei os linters `ESLint` e `StyleLint`.
 
+
   <summary><strong>:memo: Habilidades</strong></summary><br />
 
   Neste projeto, atestei que sou capaz de:
