@@ -26,53 +26,53 @@ Foram escritos testes para uma aplicação React que já está criada e configur
    * É exibido na tela um `link` com o texto `Favorite Pokémon`
 
 ## 2. Teste do componente `<About.tsx />.`
-    * É exibido na tela um `h2` com texto `About Pokédex`
-    
-    * O atributo `src` da imagem é `https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png`
+   * É exibido na tela um `h2` com texto `About Pokédex`
+
+   * O atributo `src` da imagem é `https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png`
 
 
 ## 3. Teste do componente `<FavoritePokemon.tsx />`
-    * É exibido na tela a mensagem `No favorite pokemon found`
-    
-    * São exibidos na tela apenas os Pokémon favoritados
+   * É exibido na tela a mensagem `No favorite pokemon found`
+
+   * São exibidos na tela apenas os Pokémon favoritados
 
 ## 4. Teste do componente `<NotFound.tsx />`
-    * É exibido na tela um `h2` com o texto `Page requested not found`
-    
-    * Existe uma imagem com o `src`:<br /> `https://media.giphy.com/media/kNSeTs31XBZ3G/giphy.gif`
+   * É exibido na tela um `h2` com o texto `Page requested not found`
+
+   * Existe uma imagem com o `src`:<br /> `https://media.giphy.com/media/kNSeTs31XBZ3G/giphy.gif`
 
 ## 5. Teste o componente `<Pokedex.tsx />`
-    * Os botões de filtragem por tipo têm o nome correto
-    
-    * Os botões de filtragem por tipo têm o `data-testid=pokemon-type-button`, exceto o botão `All`
-    
-    * É possível clicar no botão de filtragem `All`
+   * Os botões de filtragem por tipo têm o nome correto
+
+   * Os botões de filtragem por tipo têm o `data-testid=pokemon-type-button`, exceto o botão `All`
+
+   * É possível clicar no botão de filtragem `All`
 
   ## 6. Teste o componente `<Pokemon.tsx />`
-    * A imagem do Pokémon tem o `src` correto
-    
-    * A imagem do Pokémon tem o `alt` `<name> sprite`
-    
-    * A imagem de favorito :star: tem o `src` `/star-icon.png`
-    
-    * A imagem de favorito :star: tem o `alt` `<name> is marked as favorite`
-    
-    * É exibido na tela um texto com o tipo do Pokémon
-    
-    * É exibido na tela um `link` com o `href` `/pokemon/<id>`
+   * A imagem do Pokémon tem o `src` correto
+
+   * A imagem do Pokémon tem o `alt` `<name> sprite`
+
+   * A imagem de favorito :star: tem o `src` `/star-icon.png`
+
+   * A imagem de favorito :star: tem o `alt` `<name> is marked as favorite`
+
+   * É exibido na tela um texto com o tipo do Pokémon
+
+   * É exibido na tela um `link` com o `href` `/pokemon/<id>`
 
   ## 7. Teste o componente `<PokemonDetails.tsx />`
-    * É exibido na tela um `h2` com o texto `<name> Details`
-    
-    * É exibido na tela um `h2` com o texto `Summary`
-    
-    * É exibido na tela um texto contendo `<summary>`
-    
-    * É exibido na tela um `h2` com o texto `Game Locations of <name>`
-    
-    * São exibidas na tela imagens de localização com o `src` correto
-    
-    * É exibido na tela uma `label` com o texto `Pokémon favoritado?`
+   * É exibido na tela um `h2` com o texto `<name> Details`
+   
+   * É exibido na tela um `h2` com o texto `Summary`
+
+   * É exibido na tela um texto contendo `<summary>`
+
+   * É exibido na tela um `h2` com o texto `Game Locations of <name>`
+
+   * São exibidas na tela imagens de localização com o `src` correto
+
+   * É exibido na tela uma `label` com o texto `Pokémon favoritado?`
 
 
 # O que já veio pronto da Trybe
