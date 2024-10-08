@@ -79,3 +79,7 @@ Foram escritos testes para uma aplicação React que já está criada e configur
    * A aplicação contém uma implementação completa de todos os requisitos da Pokédex,sendo que para cada requisito listado escrevi testes que garantem a corretude.
   
    * Avaliador automatizado, Stryker, que utiliza testes por mutação.
+
+
+# Projeto desenvolvido durante a Formação em Desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/). 
+Todos os arquivos de configuração, banco de dados e estrutura são de autoria da Trybe.
