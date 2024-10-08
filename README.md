@@ -81,5 +81,6 @@ Foram escritos testes para uma aplicação React que já está criada e configur
    * Avaliador automatizado, Stryker, que utiliza testes por mutação.
 
 
-# Projeto desenvolvido durante a Formação em Desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/). 
+Projeto desenvolvido durante a Formação em Desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/). 
 Todos os arquivos de configuração, banco de dados e estrutura são de autoria da Trybe.
+
